@@ -16,24 +16,24 @@ ${\color{lightgreen}{\textsf{This is the lighthouse calculation of my personal p
 ** For Desktop
 | Area | Value          |
 | ------- | ------------------ |
-| Performance   | 62 |
-| Accessibility   | 91 |
-| Best Practices   | 91 |
-| SEO*   | 100 |
+| Performance   | 99 |
+| Accessibility   | 84 |
+| Best Practices   | 95 |
+| SEO*   | 90 |
 | PWA*   | 0 |
 
 ** For Mobile
 | Area | Value          |
 | ------- | ------------------ |
-| Performance   | 70 |
-| Accessibility   | 91 |
+| Performance   | 89 |
+| Accessibility   | 84 |
 | Best Practices   | 91 |
-| SEO*   | 100 |
+| SEO*   | 92 |
 | PWA*   | 0 |
 
-*SEO => Search Engine Optimization
-*PWA => Progressive Web App
-*This value is updating on 28th of every month.
+*SEO => Search Engine Optimization <br>
+*PWA => Progressive Web App<br>
+*This value is updating on 28th of every month.<br>
 
 ## Reporting a Vulnerability
 
