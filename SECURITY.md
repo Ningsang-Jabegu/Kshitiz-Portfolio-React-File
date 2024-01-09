@@ -33,7 +33,7 @@ ${\color{lightgreen}{\textsf{This is the lighthouse calculation of my personal p
 
 *SEO => Search Engine Optimization <br>
 *PWA => Progressive Web App<br>
-*This value is updating on 28th of every month.<br>
+*This value was last updated on 2024/1/9 12:01PM<br>
 
 ## Reporting a Vulnerability
 
